@@ -16,7 +16,7 @@ export const profile = {
     "I'm a Computer Science undergraduate at Noida Institute of Engineering and Technology (8.67 CGPA). I specialize in building full-stack web applications and practical machine learning solutions, shipping products with payment verification trails, semantic search, and NLP classifiers.",
   projectRoles: [
     { label: "Full-Stack Engineering", org: "MERN & Next.js", icon: "🚀" },
-    { label: "Machine Learning & NLP", org: "Python & Data Science", icon: "🧠" },
+    { label: "Machine Learning & NLP", org: "Python & ML", icon: "🧠" },
   ],
   vibes: [
     { title: "SILVER", sub: "Change the vibes ↻", tagline: "Building full-stack web platforms & machine learning systems", type: "default" },

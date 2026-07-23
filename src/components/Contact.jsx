@@ -29,7 +29,7 @@ export default function Contact() {
           <div className="eyebrow">05 · Contact</div>
           <h2 className="section-title">Let's talk</h2>
           <p className="section-sub">
-            Open to engineering, AI/ML roles and interesting collaborations. The fastest way to reach me is email or a direct message on LinkedIn.
+            Open to full-stack engineering, software roles and interesting collaborations. The fastest way to reach me is email or a direct message on LinkedIn.
           </p>
         </Reveal>
 
