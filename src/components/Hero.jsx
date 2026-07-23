@@ -46,7 +46,7 @@ export default function Hero() {
           title="Click to change vibes"
         >
           <div className="hero-banner-content">
-            <h1 className="hero-banner-title">ROHAN JAISWAL</h1>
+            <h1 className="hero-banner-title">DEVELOPER</h1>
             <p className="hero-banner-tagline">Building full-stack applications &amp; intelligent software systems</p>
           </div>
           <div className="hero-banner-action">
